@@ -1,0 +1,79 @@
+<dataroot generated="2017-05-01T14:06:34">
+<food>
+<ID>1</ID>
+<item>milk</item>
+<price>0.65</price>
+<date_last>2017-05-01 14:08:18.373000</date_last>
+<duration>7</duration>
+</food>
+<food>
+<ID>2</ID>
+<item>bread</item>
+<price>1.5</price>
+<date_last>2017-05-01 14:08:18.373000</date_last>
+<duration>3</duration>
+</food>
+<food>
+<ID>3</ID>
+<item>cheese</item>
+<price>1</price>
+<date_last>2017-05-01 14:08:18.377000</date_last>
+<duration>7</duration>
+</food>
+<food>
+<ID>4</ID>
+<item>breadmeat</item>
+<price>1.5</price>
+<date_last>2017-05-01 14:08:18.381000</date_last>
+<duration>7</duration>
+</food>
+<food>
+<ID>5</ID>
+<item>coffee</item>
+<price>2.5</price>
+<date_last>2017-05-01 14:08:18.381000</date_last>
+<duration>14</duration>
+</food>
+<food>
+<ID>6</ID>
+<item>muesli</item>
+<price>1.8</price>
+<date_last>2017-05-01 14:08:18.389000</date_last>
+<duration>14</duration>
+</food>
+<food>
+<ID>7</ID>
+<item>bananen</item>
+<price>1.2</price>
+<date_last>2017-05-01 14:08:18.389000</date_last>
+<duration>5</duration>
+</food>
+<food>
+<ID>8</ID>
+<item>spekblokjes</item>
+<price>1.7</price>
+<date_last>2017-05-01 14:08:18.393000</date_last>
+<duration>7</duration>
+</food>
+<food>
+<ID>9</ID>
+<item>kidney beans</item>
+<price>0.8</price>
+<date_last>2017-05-01 14:08:18.397000</date_last>
+<duration>7</duration>
+</food>
+<food>
+<ID>10</ID>
+<item>groene thee met citroen</item>
+<price>3.25</price>
+<date_last>2017-05-01 14:08:18.397000</date_last>
+<duration>21</duration>
+</food>
+<food>
+<ID>11</ID>
+<item>honing</item>
+<price>1.6</price>
+<date_last>2017-05-01 14:08:18.405000</date_last>
+<duration>21</duration>
+</food>
+</dataroot>
